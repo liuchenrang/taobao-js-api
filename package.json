@@ -1,0 +1,17 @@
+{
+  "author": "inotseeyou <inotseeyou@gmail.com> (http://vi.codelint.com)",
+  "name": "taobao-js-api",
+  "description": "taobao js api",
+  "version": "0.1.2",
+  "homepage": "http://vi.codelint.com",
+  "repository": {
+    "type":"git",
+    "url": "git@github.com:liuchenrang/taobao-js-api.git"
+  },
+  "main": "./lib/index",
+  "engines": {
+    "node": "~0.4.8"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
